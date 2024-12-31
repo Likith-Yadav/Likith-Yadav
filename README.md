@@ -18,8 +18,7 @@ I'm a **3rd-semester AIML student** at **MVJCE Bangalore**, passionate about **A
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Likith-Yadav&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ---
 
