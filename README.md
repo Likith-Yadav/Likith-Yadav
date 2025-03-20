@@ -12,7 +12,7 @@ I'm a **3rd-semester AIML student** at **MVJCE Bangalore**, passionate about **A
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Likith-Yadav&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![Likith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likith-Yadav&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Likith-Yadav&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Likith-Yadav&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
